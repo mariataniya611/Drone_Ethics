@@ -25,10 +25,10 @@ This project explores ethical decision-making in autonomous drone systems throug
 ## Screenshots
 
 ### Image Analyzer
-![Image Analyzer](Image analyzer.png)
+![Image Analyzer](Image_analyzer.png)
 
 ### Analysis Report
-![Analysis Report](Analysis Report.png)
+![Analysis Report](Analysis_Report.png)
 
 ### Code Snapshot
 ![Code Snapshot](code.png)
