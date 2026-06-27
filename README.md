@@ -22,3 +22,13 @@ This project explores ethical decision-making in autonomous drone systems throug
 - Additional ethical scenarios
 - Improved decision models
 - Enhanced user interface
+## Screenshots
+
+### Image Analyzer
+![Image Analyzer](Image analyzer.png)
+
+### Analysis Report
+![Analysis Report](Analysis Report.png)
+
+### Code Snapshot
+![Code Snapshot](code.png)
